@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Last update 2/29/20 9:00PM
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300405
+
+#EXTINF:-1 tvg-logo="" group-title="", 1000
+https://sync1.iptv.bingo/live/1000
+
+#EXTINF:-1 tvg-logo="" group-title="", 1
+https://sync1.iptv.bingo/live/1
+
+#EXTINF:-1 tvg-logo="" group-title="", 2
+https://sync1.iptv.bingo/live/2
+
+#EXTINF:-1 tvg-logo="" group-title="", 3
+https://sync1.iptv.bingo/live/3
+
+#EXTINF:-1 tvg-logo="" group-title="", 4
+https://sync1.iptv.bingo/live/4
+
+#EXTINF:-1 tvg-logo="" group-title="", 5
+https://sync1.iptv.bingo/live/5
