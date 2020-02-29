@@ -5,6 +5,9 @@ http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300405
 #EXTINF:-1 tvg-logo="" group-title="", 1000
 https://sync1.iptv.bingo/live/1000
 
+#EXTINF:-1 tvg-logo="" group-title="", 361
+https://sync1.iptv.bingo/live/361
+
 #EXTINF:-1 tvg-logo="" group-title="", 1
 https://sync1.iptv.bingo/live/1
 
