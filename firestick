@@ -200,25 +200,22 @@ https://sync1.iptv.bingo/live/393
 #EXTINF:-1 tvg-logo="" group-title="", 394
 https://sync1.iptv.bingo/live/394
 
-#EXTINF:-1 tvg-logo="" group-title="", 395
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/BET_Jams.svg/revision/latest/scale-to-width-down/67?cb=20170319124120" group-title="MUSIC", BET JAMS
 https://sync1.iptv.bingo/live/395
 
-#EXTINF:-1 tvg-logo="" group-title="", 396
-https://sync1.iptv.bingo/live/396
-
-#EXTINF:-1 tvg-logo="" group-title="", 397
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="DAVE", RIDE TV
 https://sync1.iptv.bingo/live/397
 
 #EXTINF:-1 tvg-logo="" group-title="", 398
 https://sync1.iptv.bingo/live/398
 
-#EXTINF:-1 tvg-logo="" group-title="", 399
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c7/NickMusic.svg/revision/latest/scale-to-width-down/80?cb=20190930203549" group-title="MUSIC", NICK MUSIC
 https://sync1.iptv.bingo/live/399
 
-#EXTINF:-1 tvg-logo="" group-title="", 400
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Bet_Soul_Alternative_logo.png/revision/latest?cb=20160810042412" group-title="MUSIC", BET SOUL
 https://sync1.iptv.bingo/live/400
 
-#EXTINF:-1 tvg-logo="" group-title="", 401
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c2/MTV_Classic.svg/revision/latest/scale-to-width-down/61?cb=20170319123355" group-title="MUSIC", MTV CLASSIC
 https://sync1.iptv.bingo/live/401
 
 #EXTINF:-1 tvg-logo="" group-title="", 402
@@ -236,26 +233,26 @@ https://sync1.iptv.bingo/live/405
 #EXTINF:-1 tvg-logo="" group-title="", 406
 https://sync1.iptv.bingo/live/406
 
-#EXTINF:-1 tvg-logo="" group-title="", 196
-https://sync1.iptv.bingo/live/196
+#EXTINF:-1 tvg-logo="" group-title="", 407
+https://sync1.iptv.bingo/live/407
 
-#EXTINF:-1 tvg-logo="" group-title="", 197
-https://sync1.iptv.bingo/live/197
+#EXTINF:-1 tvg-logo="" group-title="", 408
+https://sync1.iptv.bingo/live/408
 
-#EXTINF:-1 tvg-logo="" group-title="", 198
-https://sync1.iptv.bingo/live/198
+#EXTINF:-1 tvg-logo="" group-title="", 409
+https://sync1.iptv.bingo/live/409
 
-#EXTINF:-1 tvg-logo="" group-title="", 199
-https://sync1.iptv.bingo/live/199
+#EXTINF:-1 tvg-logo="" group-title="", 410
+https://sync1.iptv.bingo/live/410
 
-#EXTINF:-1 tvg-logo="" group-title="", 200
-https://sync1.iptv.bingo/live/200
+#EXTINF:-1 tvg-logo="" group-title="", 411
+https://sync1.iptv.bingo/live/411
 
-#EXTINF:-1 tvg-logo="" group-title="", 201
-https://sync1.iptv.bingo/live/201
+#EXTINF:-1 tvg-logo="" group-title="", 412
+https://sync1.iptv.bingo/live/412
 
-#EXTINF:-1 tvg-logo="" group-title="", 202
-https://sync1.iptv.bingo/live/202
+#EXTINF:-1 tvg-logo="" group-title="", 413
+https://sync1.iptv.bingo/live/413
 
 #EXTINF:-1 tvg-logo="" group-title="", 203
 https://sync1.iptv.bingo/live/203
