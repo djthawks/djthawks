@@ -194,7 +194,7 @@ https://sync1.iptv.bingo/live/391
 #EXTINF:-1 tvg-logo="" group-title="", 392
 https://sync1.iptv.bingo/live/392
 
-#EXTINF:-1 tvg-logo="" group-title="", 393
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/225px-The_Weather_Channel_logo_2005-present.svg.png" group-title="WEATHER", WEATHER CHANNEL
 https://sync1.iptv.bingo/live/393
 
 #EXTINF:-1 tvg-logo="" group-title="", 394
@@ -218,19 +218,16 @@ https://sync1.iptv.bingo/live/400
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c2/MTV_Classic.svg/revision/latest/scale-to-width-down/61?cb=20170319123355" group-title="MUSIC", MTV CLASSIC
 https://sync1.iptv.bingo/live/401
 
-#EXTINF:-1 tvg-logo="" group-title="", 402
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV U
 https://sync1.iptv.bingo/live/402
 
-#EXTINF:-1 tvg-logo="" group-title="", 403
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/14/MTV_Live_Logo.png/revision/latest/scale-to-width-down/50?cb=20160207072213" group-title="MUSIC", MTV LIVE
 https://sync1.iptv.bingo/live/403
 
-#EXTINF:-1 tvg-logo="" group-title="", 404
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Reelz.svg/revision/latest/scale-to-width-down/80?cb=20170828153439" group-title="DAVE", REELZ
 https://sync1.iptv.bingo/live/404
 
-#EXTINF:-1 tvg-logo="" group-title="", 405
-https://sync1.iptv.bingo/live/405
-
-#EXTINF:-1 tvg-logo="" group-title="", 406
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", FUSE MUSIC
 https://sync1.iptv.bingo/live/406
 
 #EXTINF:-1 tvg-logo="" group-title="", 407
@@ -254,72 +251,92 @@ https://sync1.iptv.bingo/live/412
 #EXTINF:-1 tvg-logo="" group-title="", 413
 https://sync1.iptv.bingo/live/413
 
-#EXTINF:-1 tvg-logo="" group-title="", 203
-https://sync1.iptv.bingo/live/203
+#EXTINF:-1 tvg-logo="" group-title="", 414
+https://sync1.iptv.bingo/live/414
 
-#EXTINF:-1 tvg-logo="" group-title="", 204
-https://sync1.iptv.bingo/live/204
+#EXTINF:-1 tvg-logo="" group-title="", 415
+https://sync1.iptv.bingo/live/415
 
-#EXTINF:-1 tvg-logo="" group-title="", 205
-https://sync1.iptv.bingo/live/205
+#EXTINF:-1 tvg-logo="" group-title="", 416
+https://sync1.iptv.bingo/live/416
 
-#EXTINF:-1 tvg-logo="" group-title="", 206
-https://sync1.iptv.bingo/live/206
+#EXTINF:-1 tvg-logo="" group-title="", 417
+https://sync1.iptv.bingo/live/417
 
-#EXTINF:-1 tvg-logo="" group-title="", 207
-https://sync1.iptv.bingo/live/207
+#EXTINF:-1 tvg-logo="" group-title="", 418
+https://sync1.iptv.bingo/live/418
 
-#EXTINF:-1 tvg-logo="" group-title="", 208
-https://sync1.iptv.bingo/live/208
+#EXTINF:-1 tvg-logo="" group-title="", 419
+https://sync1.iptv.bingo/live/419
 
-#EXTINF:-1 tvg-logo="" group-title="", 209
-https://sync1.iptv.bingo/live/209
+#EXTINF:-1 tvg-logo="" group-title="", 420
+https://sync1.iptv.bingo/live/421
 
-#EXTINF:-1 tvg-logo="" group-title="", 210
-https://sync1.iptv.bingo/live/210
+#EXTINF:-1 tvg-logo="" group-title="", 421
+https://sync1.iptv.bingo/live/421
 
-#EXTINF:-1 tvg-logo="" group-title="", 211
-https://sync1.iptv.bingo/live/211
+#EXTINF:-1 tvg-logo="" group-title="", 422
+https://sync1.iptv.bingo/live/422
 
-#EXTINF:-1 tvg-logo="" group-title="", 212
-https://sync1.iptv.bingo/live/212
+#EXTINF:-1 tvg-logo="" group-title="", 423
+https://sync1.iptv.bingo/live/423
 
-#EXTINF:-1 tvg-logo="" group-title="", 213
-https://sync1.iptv.bingo/live/214
+#EXTINF:-1 tvg-logo="" group-title="", 424
+https://sync1.iptv.bingo/live/424
 
-#EXTINF:-1 tvg-logo="" group-title="", 214
-https://sync1.iptv.bingo/live/214
+#EXTINF:-1 tvg-logo="" group-title="", 425
+https://sync1.iptv.bingo/live/425
 
-#EXTINF:-1 tvg-logo="" group-title="", 215
-https://sync1.iptv.bingo/live/215
+#EXTINF:-1 tvg-logo="" group-title="", 426
+https://sync1.iptv.bingo/live/426
 
-#EXTINF:-1 tvg-logo="" group-title="", 216
-https://sync1.iptv.bingo/live/216
+#EXTINF:-1 tvg-logo="" group-title="", 427
+https://sync1.iptv.bingo/live/427
 
-#EXTINF:-1 tvg-logo="" group-title="", 217
-https://sync1.iptv.bingo/live/217
+#EXTINF:-1 tvg-logo="" group-title="", 428
+https://sync1.iptv.bingo/live/428
 
-#EXTINF:-1 tvg-logo="" group-title="", 218
-https://sync1.iptv.bingo/live/218
+#EXTINF:-1 tvg-logo="" group-title="", 429
+https://sync1.iptv.bingo/live/429
 
-#EXTINF:-1 tvg-logo="" group-title="", 219
-https://sync1.iptv.bingo/live/219
+#EXTINF:-1 tvg-logo="" group-title="", 430
+https://sync1.iptv.bingo/live/430
 
-#EXTINF:-1 tvg-logo="" group-title="", 220
-https://sync1.iptv.bingo/live/220
+#EXTINF:-1 tvg-logo="" group-title="", 431
+https://sync1.iptv.bingo/live/431
 
-#EXTINF:-1 tvg-logo="" group-title="", 221
-https://sync1.iptv.bingo/live/221
+#EXTINF:-1 tvg-logo="" group-title="", 432
+https://sync1.iptv.bingo/live/432
 
-#EXTINF:-1 tvg-logo="" group-title="", 222
-https://sync1.iptv.bingo/live/222
+#EXTINF:-1 tvg-logo="" group-title="", 433
+https://sync1.iptv.bingo/live/433
+
+#EXTINF:-1 tvg-logo="" group-title="", 434
+https://sync1.iptv.bingo/live/434
+
+#EXTINF:-1 tvg-logo="" group-title="", 435
+https://sync1.iptv.bingo/live/435
+
+#EXTINF:-1 tvg-logo="" group-title="", 436
+https://sync1.iptv.bingo/live/436
+
+#EXTINF:-1 tvg-logo="" group-title="", 437
+https://sync1.iptv.bingo/live/437
+
+#EXTINF:-1 tvg-logo="" group-title="", 438
+https://sync1.iptv.bingo/live/438
+
+#EXTINF:-1 tvg-logo="" group-title="", 439
+https://sync1.iptv.bingo/live/439
+
+#EXTINF:-1 tvg-logo="" group-title="", 440
+https://sync1.iptv.bingo/live/440
 
 #EXTINF:-1 tvg-logo="" group-title="", 223
 https://sync1.iptv.bingo/live/223
 
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="", 223
+https://sync1.iptv.bingo/live/223
 
 
 
