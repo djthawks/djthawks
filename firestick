@@ -299,22 +299,19 @@ https://sync1.iptv.bingo/live/434
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/WeatherNation_2014.png/revision/latest/scale-to-width-down/250?cb=20180213162457" group-title="WEATHER", WEATHERNATION
 https://sync1.iptv.bingo/live/435
 
-#EXTINF:-1 tvg-logo="" group-title="", 436
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/AccuWeather.svg/revision/latest/scale-to-width-down/300?cb=20130419211253" group-title="WEATHER", ACCUWEATHER
 https://sync1.iptv.bingo/live/436
 
-#EXTINF:-1 tvg-logo="" group-title="", 437
-https://sync1.iptv.bingo/live/437
-
-#EXTINF:-1 tvg-logo="" group-title="", 438
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/BBC_World_News_2019.svg/revision/latest/scale-to-width-down/50?cb=20191123221705" group-title="NEWS", BBC WORLD NEWS
 https://sync1.iptv.bingo/live/438
 
-#EXTINF:-1 tvg-logo="" group-title="", 439
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/80?cb=20180509053533" group-title="NEWS", CNN
 https://sync1.iptv.bingo/live/439
 
-#EXTINF:-1 tvg-logo="" group-title="", 440
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/CBSN.svg/revision/latest/scale-to-width-down/300?cb=20141109220354" group-title="NEWS", CBSN
 https://sync1.iptv.bingo/live/440
 
-#EXTINF:-1 tvg-logo="" group-title="", 441
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="NEWS", RT
 https://sync1.iptv.bingo/live/441
 
 #EXTINF:-1 tvg-logo="" group-title="", 442
@@ -323,193 +320,52 @@ https://sync1.iptv.bingo/live/442
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/17/OANN.jpg/revision/latest/scale-to-width-down/200?cb=20151026211718" group-title="NEWS", ONE AMERICE NEWS NETWORK
 https://sync1.iptv.bingo/live/443
 
-#EXTINF:-1 tvg-logo="" group-title="", 444
-https://sync1.iptv.bingo/live/444
-
-#EXTINF:-1 tvg-logo="" group-title="", 445
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Newsy.svg/revision/latest/scale-to-width-down/250?cb=20190815145947" group-title="NEWS", NEWSY
 https://sync1.iptv.bingo/live/445
 
-#EXTINF:-1 tvg-logo="" group-title="", 446
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 446
 https://sync1.iptv.bingo/live/446
 
-#EXTINF:-1 tvg-logo="" group-title="", 447
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Stadium_logo_2017.svg/revision/latest/scale-to-width-down/250?cb=20190603015712" group-title="SPORT", STADIUM 1
 https://sync1.iptv.bingo/live/447
 
-#EXTINF:-1 tvg-logo="" group-title="", 448
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Stadium_logo_2017.svg/revision/latest/scale-to-width-down/250?cb=20190603015712" group-title="SPORT", STADIUM 2
 https://sync1.iptv.bingo/live/448
 
-#EXTINF:-1 tvg-logo="" group-title="", 449
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/SEC-network-horizontal.svg/revision/latest/scale-to-width-down/250?cb=20161125152750" group-title="SPORT", SEC NETWORK
 https://sync1.iptv.bingo/live/449
 
-#EXTINF:-1 tvg-logo="" group-title="", 450
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/be/Olympic_Channel.svg/revision/latest/scale-to-width-down/300?cb=20170713110144" group-title="SPORT", OLYMPIC CHANNEL 1
 https://sync1.iptv.bingo/live/450
 
-#EXTINF:-1 tvg-logo="" group-title="", 451
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f4/NHL_Network_2012.svg/revision/latest/scale-to-width-down/250?cb=20191208144244" group-title="SPORT", NHL NETWORK
 https://sync1.iptv.bingo/live/451
 
-#EXTINF:-1 tvg-logo="" group-title="", 452
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f4/NHL_Network_2012.svg/revision/latest/scale-to-width-down/250?cb=20191208144244" group-title="SPORT", NHL NETWORK
 https://sync1.iptv.bingo/live/452
 
-#EXTINF:-1 tvg-logo="" group-title="", 453
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/NBC_Sports_Network.svg/revision/latest/scale-to-width-down/200?cb=20131221223652" group-title="SPORT", NBCSN
 https://sync1.iptv.bingo/live/453
 
-#EXTINF:-1 tvg-logo="" group-title="", 454
-https://sync1.iptv.bingo/live/454
-
-#EXTINF:-1 tvg-logo="" group-title="", 455
-https://sync1.iptv.bingo/live/455
-
-#EXTINF:-1 tvg-logo="" group-title="", 456
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest/scale-to-width-down/80?cb=20180410190357" group-title="SPORT", MOTOR TREND
 https://sync1.iptv.bingo/live/456
 
-#EXTINF:-1 tvg-logo="" group-title="", 457
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/StrikeZoneLogo.jpg/330px-StrikeZoneLogo.jpg" group-title="SPORT", MLB STRIKE ZONE
 https://sync1.iptv.bingo/live/457
 
-#EXTINF:-1 tvg-logo="" group-title="", 458
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/MLB_Network.svg/revision/latest/scale-to-width-down/150?cb=20100629135103" group-title="SPORT", MLB
 https://sync1.iptv.bingo/live/458
 
-#EXTINF:-1 tvg-logo="" group-title="", 459
-https://sync1.iptv.bingo/live/459
-
-#EXTINF:-1 tvg-logo="" group-title="", 460
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d2/Longhorn_Network.svg/revision/latest/scale-to-width-down/300?cb=20170721224553" group-title="SPORT", LONGHORN NETWORK
 https://sync1.iptv.bingo/live/460
 
-#EXTINF:-1 tvg-logo="" group-title="", 461
-https://sync1.iptv.bingo/live/461
-
-#EXTINF:-1 tvg-logo="" group-title="", 462
-https://sync1.iptv.bingo/live/462
-
-#EXTINF:-1 tvg-logo="" group-title="", 463
-https://sync1.iptv.bingo/live/463
-
-#EXTINF:-1 tvg-logo="" group-title="", 464
-https://sync1.iptv.bingo/live/464
-
-#EXTINF:-1 tvg-logo="" group-title="", 465
-https://sync1.iptv.bingo/live/465
-
-#EXTINF:-1 tvg-logo="" group-title="", 466
-https://sync1.iptv.bingo/live/466
-
-#EXTINF:-1 tvg-logo="" group-title="", 467
-https://sync1.iptv.bingo/live/467
-
-#EXTINF:-1 tvg-logo="" group-title="", 468
-https://sync1.iptv.bingo/live/468
-
-#EXTINF:-1 tvg-logo="" group-title="", 469
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/330px-Golf_Channel_Logo_2018.png" group-title="SPORT", NBC GOLF
 https://sync1.iptv.bingo/live/469
 
-#EXTINF:-1 tvg-logo="" group-title="", 470
-https://sync1.iptv.bingo/live/470
-
-#EXTINF:-1 tvg-logo="" group-title="", 471
-https://sync1.iptv.bingo/live/471
-
-#EXTINF:-1 tvg-logo="" group-title="", 472
-https://sync1.iptv.bingo/live/472
-
-#EXTINF:-1 tvg-logo="" group-title="", 473
-https://sync1.iptv.bingo/live/473
-
-#EXTINF:-1 tvg-logo="" group-title="", 474
-https://sync1.iptv.bingo/live/474
-
-#EXTINF:-1 tvg-logo="" group-title="", 475
-https://sync1.iptv.bingo/live/475
-
-#EXTINF:-1 tvg-logo="" group-title="", 476
-https://sync1.iptv.bingo/live/476
-
-#EXTINF:-1 tvg-logo="" group-title="", 477
-https://sync1.iptv.bingo/live/477
-
-#EXTINF:-1 tvg-logo="" group-title="", 478
-https://sync1.iptv.bingo/live/478
-
-#EXTINF:-1 tvg-logo="" group-title="", 479
-https://sync1.iptv.bingo/live/479
-
-#EXTINF:-1 tvg-logo="" group-title="", 480
-https://sync1.iptv.bingo/live/480
-
-#EXTINF:-1 tvg-logo="" group-title="", 481
-https://sync1.iptv.bingo/live/481
-
-#EXTINF:-1 tvg-logo="" group-title="", 482
-https://sync1.iptv.bingo/live/482
-
-#EXTINF:-1 tvg-logo="" group-title="", 483
-https://sync1.iptv.bingo/live/483
-
-#EXTINF:-1 tvg-logo="" group-title="", 484
-https://sync1.iptv.bingo/live/484
-
-#EXTINF:-1 tvg-logo="" group-title="", 485
-https://sync1.iptv.bingo/live/485
-
-#EXTINF:-1 tvg-logo="" group-title="", 486
-https://sync1.iptv.bingo/live/486
-
-#EXTINF:-1 tvg-logo="" group-title="", 487
-https://sync1.iptv.bingo/live/487
-
-#EXTINF:-1 tvg-logo="" group-title="", 488
-https://sync1.iptv.bingo/live/488
-
-#EXTINF:-1 tvg-logo="" group-title="", 489
-https://sync1.iptv.bingo/live/489
-
-#EXTINF:-1 tvg-logo="" group-title="", 490
-https://sync1.iptv.bingo/live/490
-
-#EXTINF:-1 tvg-logo="" group-title="", 491
-https://sync1.iptv.bingo/live/491
-
-#EXTINF:-1 tvg-logo="" group-title="", 492
-https://sync1.iptv.bingo/live/492
-
-#EXTINF:-1 tvg-logo="" group-title="", 493
-https://sync1.iptv.bingo/live/493
-
-#EXTINF:-1 tvg-logo="" group-title="", 494
-https://sync1.iptv.bingo/live/494
-
-#EXTINF:-1 tvg-logo="" group-title="", 495
-https://sync1.iptv.bingo/live/495
-
-#EXTINF:-1 tvg-logo="" group-title="", 496
-https://sync1.iptv.bingo/live/496
-
-#EXTINF:-1 tvg-logo="" group-title="", 497
-https://sync1.iptv.bingo/live/497
-
-#EXTINF:-1 tvg-logo="" group-title="", 498
-https://sync1.iptv.bingo/live/498
-
-#EXTINF:-1 tvg-logo="" group-title="", 499
-https://sync1.iptv.bingo/live/499
-
-#EXTINF:-1 tvg-logo="" group-title="", 500
-https://sync1.iptv.bingo/live/500
-
-#EXTINF:-1 tvg-logo="" group-title="", 501
-https://sync1.iptv.bingo/live/501
-
-#EXTINF:-1 tvg-logo="" group-title="", 502
-https://sync1.iptv.bingo/live/502
-
-#EXTINF:-1 tvg-logo="" group-title="", 503
-https://sync1.iptv.bingo/live/503
-
-#EXTINF:-1 tvg-logo="" group-title="", 504
-https://sync1.iptv.bingo/live/504
-
-#EXTINF:-1 tvg-logo="" group-title="", 505
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/SEC-network-horizontal.svg/revision/latest/scale-to-width-down/250?cb=20161125152750" group-title="SPORT", SEC NETWORK
 https://sync1.iptv.bingo/live/505
 
-#EXTINF:-1 tvg-logo="" group-title="", 506
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/ESPN_Bases_Loaded.png/revision/latest/scale-to-width-down/200?cb=20180111202435" group-title="SPORT", ESPN BASES LOADED
 https://sync1.iptv.bingo/live/506
 
 #EXTINF:-1 tvg-logo="" group-title="", 507
@@ -533,8 +389,8 @@ https://sync1.iptv.bingo/live/512
 #EXTINF:-1 tvg-logo="" group-title="", 513
 https://sync1.iptv.bingo/live/513
 
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
+#EXTINF:-1 tvg-logo="" group-title="", 514
+https://sync1.iptv.bingo/live/514
 
 #EXTINF:-1 tvg-logo="" group-title="", 223
 https://sync1.iptv.bingo/live/223
