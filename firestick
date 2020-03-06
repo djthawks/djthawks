@@ -368,29 +368,71 @@ https://sync1.iptv.bingo/live/505
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/ESPN_Bases_Loaded.png/revision/latest/scale-to-width-down/200?cb=20180111202435" group-title="SPORT", ESPN BASES LOADED
 https://sync1.iptv.bingo/live/506
 
-#EXTINF:-1 tvg-logo="" group-title="", 507
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/375px-NBC_Sports_Chicago_Logo.svg.png" group-title="SPORT", NBC SPORTS CHICAGO
 https://sync1.iptv.bingo/live/507
 
-#EXTINF:-1 tvg-logo="" group-title="", 508
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Philadelphia.png/330px-NBC_Sports_Philadelphia.png" group-title="SPORT", NBC SPORTS PHILADELPHIA
 https://sync1.iptv.bingo/live/508
 
-#EXTINF:-1 tvg-logo="" group-title="", 509
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/ESPN_Deportes.svg/revision/latest/scale-to-width-down/200?cb=20100620210138" group-title="SPORT", ESPN DEPORTES
 https://sync1.iptv.bingo/live/509
 
-#EXTINF:-1 tvg-logo="" group-title="", 510
-https://sync1.iptv.bingo/live/510
+#EXTINF:-1 tvg-logo="" group-title="", 515
+https://sync1.iptv.bingo/live/515
 
-#EXTINF:-1 tvg-logo="" group-title="", 511
-https://sync1.iptv.bingo/live/511
+#EXTINF:-1 tvg-logo="" group-title="", 516
+https://sync1.iptv.bingo/live/516
 
-#EXTINF:-1 tvg-logo="" group-title="", 512
-https://sync1.iptv.bingo/live/512
+#EXTINF:-1 tvg-logo="" group-title="", 517
+https://sync1.iptv.bingo/live/517
 
-#EXTINF:-1 tvg-logo="" group-title="", 513
-https://sync1.iptv.bingo/live/513
+#EXTINF:-1 tvg-logo="" group-title="", 518
+https://sync1.iptv.bingo/live/518
 
-#EXTINF:-1 tvg-logo="" group-title="", 514
-https://sync1.iptv.bingo/live/514
+#EXTINF:-1 tvg-logo="" group-title="", 519
+https://sync1.iptv.bingo/live/519
+
+#EXTINF:-1 tvg-logo="" group-title="", 520
+https://sync1.iptv.bingo/live/520
+
+#EXTINF:-1 tvg-logo="" group-title="", 521
+https://sync1.iptv.bingo/live/521
+
+#EXTINF:-1 tvg-logo="" group-title="", 522
+https://sync1.iptv.bingo/live/522
+
+#EXTINF:-1 tvg-logo="" group-title="", 523
+https://sync1.iptv.bingo/live/523
+
+#EXTINF:-1 tvg-logo="" group-title="", 524
+https://sync1.iptv.bingo/live/524
+
+#EXTINF:-1 tvg-logo="" group-title="", 525
+https://sync1.iptv.bingo/live/525
+
+#EXTINF:-1 tvg-logo="" group-title="", 526
+https://sync1.iptv.bingo/live/526
+
+#EXTINF:-1 tvg-logo="" group-title="", 527
+https://sync1.iptv.bingo/live/527
+
+#EXTINF:-1 tvg-logo="" group-title="", 528
+https://sync1.iptv.bingo/live/528
+
+#EXTINF:-1 tvg-logo="" group-title="", 529
+https://sync1.iptv.bingo/live/529
+
+#EXTINF:-1 tvg-logo="" group-title="", 530
+https://sync1.iptv.bingo/live/530
+
+#EXTINF:-1 tvg-logo="" group-title="", 531
+https://sync1.iptv.bingo/live/531
+
+#EXTINF:-1 tvg-logo="" group-title="", 532
+https://sync1.iptv.bingo/live/532
+
+#EXTINF:-1 tvg-logo="" group-title="", 533
+https://sync1.iptv.bingo/live/533
 
 #EXTINF:-1 tvg-logo="" group-title="", 223
 https://sync1.iptv.bingo/live/223
@@ -407,9 +449,17 @@ https://sync1.iptv.bingo/live/223
 #EXTINF:-1 tvg-logo="" group-title="", 223
 https://sync1.iptv.bingo/live/223
 
+#EXTINF:-1 tvg-logo="" group-title="", 223
+https://sync1.iptv.bingo/live/223
 
+#EXTINF:-1 tvg-logo="" group-title="", 223
+https://sync1.iptv.bingo/live/223
 
+#EXTINF:-1 tvg-logo="" group-title="", 223
+https://sync1.iptv.bingo/live/223
 
+#EXTINF:-1 tvg-logo="" group-title="", 223
+https://sync1.iptv.bingo/live/223
 
 
 
