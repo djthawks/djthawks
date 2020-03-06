@@ -242,73 +242,61 @@ https://sync1.iptv.bingo/live/411
 #EXTINF:-1 tvg-logo="" group-title="", 412
 https://sync1.iptv.bingo/live/412
 
-#EXTINF:-1 tvg-logo="" group-title="", 413
-https://sync1.iptv.bingo/live/413
-
-#EXTINF:-1 tvg-logo="" group-title="", 414
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/RFD_TV.svg/revision/latest/scale-to-width-down/300?cb=20170703024039" group-title="DAVE", RFD TV
 https://sync1.iptv.bingo/live/414
 
-#EXTINF:-1 tvg-logo="" group-title="", 415
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/48/Blaze.svg/revision/latest/scale-to-width-down/250?cb=20161029175136" group-title="DAVE", BLAZE
 https://sync1.iptv.bingo/live/415
 
-#EXTINF:-1 tvg-logo="" group-title="", 416
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/30/PixL.png/revision/latest?cb=20110408054703" group-title="DAVE", PIXL
 https://sync1.iptv.bingo/live/416
 
-#EXTINF:-1 tvg-logo="" group-title="", 417
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/Pursuit-Tag-Line_no_ppl.png/revision/latest/scale-to-width-down/300?cb=20181205162145" group-title="SPORT", PURSUIT
 https://sync1.iptv.bingo/live/417
 
-#EXTINF:-1 tvg-logo="" group-title="", 418
+#EXTINF:-1 tvg-logo="" group-title="DAVE", GEM SHOPPING NETWORK
 https://sync1.iptv.bingo/live/418
 
-#EXTINF:-1 tvg-logo="" group-title="", 419
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Showtime_Beyond.svg/revision/latest/scale-to-width-down/300?cb=20100321185012" group-title="MOVIE", SHOWTIME BEYOND
 https://sync1.iptv.bingo/live/419
 
-#EXTINF:-1 tvg-logo="" group-title="", 420
-https://sync1.iptv.bingo/live/421
-
-#EXTINF:-1 tvg-logo="" group-title="", 421
-https://sync1.iptv.bingo/live/421
-
-#EXTINF:-1 tvg-logo="" group-title="", 422
-https://sync1.iptv.bingo/live/422
-
-#EXTINF:-1 tvg-logo="" group-title="", 423
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3e/MSNBC_2015.svg/revision/latest/scale-to-width-down/80?cb=20180308103705" group-title="NEWS", MSNBC
 https://sync1.iptv.bingo/live/423
 
-#EXTINF:-1 tvg-logo="" group-title="", 424
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/Fox_Business.svg/revision/latest/scale-to-width-down/250?cb=20151023070857" group-title="NEWS", FOX BUSINESS
 https://sync1.iptv.bingo/live/424
 
-#EXTINF:-1 tvg-logo="" group-title="", 425
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/80?cb=20180509053533" group-title="NEWS", CNN
 https://sync1.iptv.bingo/live/425
 
-#EXTINF:-1 tvg-logo="" group-title="", 426
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/CNBC_World_2.svg/revision/latest/scale-to-width-down/130?cb=20160507181708" group-title="NEWS", CNBC WORLD
 https://sync1.iptv.bingo/live/426
 
-#EXTINF:-1 tvg-logo="" group-title="", 427
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/CNBC.svg/revision/latest/scale-to-width-down/68?cb=20180730212417" group-title="NEWS", CNBC
 https://sync1.iptv.bingo/live/427
 
-#EXTINF:-1 tvg-logo="" group-title="", 428
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/ba/Cheddar_2019.svg/revision/latest/scale-to-width-down/300?cb=20190306140107" group-title="NEWS", CHEDDAR
 https://sync1.iptv.bingo/live/428
 
-#EXTINF:-1 tvg-logo="" group-title="", 429
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX 5 NEW YORK
 https://sync1.iptv.bingo/live/429
 
-#EXTINF:-1 tvg-logo="" group-title="", 430
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest/scale-to-width-down/53?cb=20190117203943" group-title="NEWS", FOX NEWS
 https://sync1.iptv.bingo/live/430
 
-#EXTINF:-1 tvg-logo="" group-title="", 431
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/ba/Cheddar_2019.svg/revision/latest/scale-to-width-down/300?cb=20190306140107" group-title="NEWS", CHEDDAR
 https://sync1.iptv.bingo/live/431
 
-#EXTINF:-1 tvg-logo="" group-title="", 432
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/93/Bloomberg_tv_2016.svg/revision/latest/scale-to-width-down/80?cb=20170703173131" group-title="NEWS", BLOOMBERG
 https://sync1.iptv.bingo/live/432
 
-#EXTINF:-1 tvg-logo="" group-title="", 433
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d7/Abc_2013_logo_dark_grey.svg/revision/latest/scale-to-width-down/50?cb=20180927202336" group-title="ABC", ABC 9 CINCINATTI
 https://sync1.iptv.bingo/live/433
 
-#EXTINF:-1 tvg-logo="" group-title="", 434
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NECN_Logo_2015.png" group-title="NEWS", NECN
 https://sync1.iptv.bingo/live/434
 
-#EXTINF:-1 tvg-logo="" group-title="", 435
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/WeatherNation_2014.png/revision/latest/scale-to-width-down/250?cb=20180213162457" group-title="WEATHER", WEATHERNATION
 https://sync1.iptv.bingo/live/435
 
 #EXTINF:-1 tvg-logo="" group-title="", 436
@@ -332,7 +320,7 @@ https://sync1.iptv.bingo/live/441
 #EXTINF:-1 tvg-logo="" group-title="", 442
 https://sync1.iptv.bingo/live/442
 
-#EXTINF:-1 tvg-logo="" group-title="", 443
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/17/OANN.jpg/revision/latest/scale-to-width-down/200?cb=20151026211718" group-title="NEWS", ONE AMERICE NEWS NETWORK
 https://sync1.iptv.bingo/live/443
 
 #EXTINF:-1 tvg-logo="" group-title="", 444
