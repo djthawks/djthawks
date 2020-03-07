@@ -464,76 +464,141 @@ https://sync1.iptv.bingo/live/549
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/330px-NBC_Sports_Bay_Area.png" group-title="SPORT", NBC SPORTS BAY AREA
 https://sync1.iptv.bingo/live/550
 
-#EXTINF:-1 tvg-logo="" group-title="", 556
-https://sync1.iptv.bingo/live/556
-
-#EXTINF:-1 tvg-logo="" group-title="", 557
-https://sync1.iptv.bingo/live/557
-
-#EXTINF:-1 tvg-logo="" group-title="", 558
-https://sync1.iptv.bingo/live/558
-
-#EXTINF:-1 tvg-logo="" group-title="", 559
-https://sync1.iptv.bingo/live/559
-
-#EXTINF:-1 tvg-logo="" group-title="", 560
-https://sync1.iptv.bingo/live/560
-
-#EXTINF:-1 tvg-logo="" group-title="", 561
-https://sync1.iptv.bingo/live/561
-
-#EXTINF:-1 tvg-logo="" group-title="", 562
-https://sync1.iptv.bingo/live/562
-
-#EXTINF:-1 tvg-logo="" group-title="", 563
-https://sync1.iptv.bingo/live/563
-
-#EXTINF:-1 tvg-logo="" group-title="", 564
-https://sync1.iptv.bingo/live/564
-
-#EXTINF:-1 tvg-logo="" group-title="", 565
-https://sync1.iptv.bingo/live/565
-
-#EXTINF:-1 tvg-logo="" group-title="", 566
-https://sync1.iptv.bingo/live/566
-
-#EXTINF:-1 tvg-logo="" group-title="", 567
-https://sync1.iptv.bingo/live/567
-
-#EXTINF:-1 tvg-logo="" group-title="", 568
-https://sync1.iptv.bingo/live/568
-
-#EXTINF:-1 tvg-logo="" group-title="", 569
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TyCSp.png/300px-TyCSp.png" group-title="SPORT", YYC SPORTS
 https://sync1.iptv.bingo/live/569
 
-#EXTINF:-1 tvg-logo="" group-title="", 570
-https://sync1.iptv.bingo/live/570
-
-#EXTINF:-1 tvg-logo="" group-title="", 571
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Msg_plus.png/390px-Msg_plus.png" group-title="SPORT", MSG PLUS
 https://sync1.iptv.bingo/live/571
 
-#EXTINF:-1 tvg-logo="" group-title="", 572
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/MSG_Network_logo.png/390px-MSG_Network_logo.png" group-title="SPORT", MSG
 https://sync1.iptv.bingo/live/572
 
-#EXTINF:-1 tvg-logo="" group-title="", 573
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Msg_plus.png/390px-Msg_plus.png" group-title="SPORT", MSG 2
 https://sync1.iptv.bingo/live/573
 
-#EXTINF:-1 tvg-logo="" group-title="", 574
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Big_Ten_Network_2011.svg/revision/latest/scale-to-width-down/300?cb=20170823195811" group-title="SPORT", BIG 10
 https://sync1.iptv.bingo/live/574
 
-#EXTINF:-1 tvg-logo="" group-title="", 575
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/Vegas_Stats_%26_Information_Network_logo.png" group-title="SPORT", VSIN
 https://sync1.iptv.bingo/live/575
 
-#EXTINF:-1 tvg-logo="" group-title="", 576
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/Vegas_Stats_%26_Information_Network_logo.png" group-title="SPORT", VSIN
 https://sync1.iptv.bingo/live/576
 
-#EXTINF:-1 tvg-logo="" group-title="", 577
+#EXTINF:-1 tvg-logo="" group-title="SPORT", REEL LIFE
 https://sync1.iptv.bingo/live/577
+
+#EXTINF:-1 tvg-logo="" group-title="", 578
+https://sync1.iptv.bingo/live/578
+
+#EXTINF:-1 tvg-logo="" group-title="", 579
+https://sync1.iptv.bingo/live/579
+
+#EXTINF:-1 tvg-logo="" group-title="", 580
+https://sync1.iptv.bingo/live/580
+
+#EXTINF:-1 tvg-logo="" group-title="", 581
+https://sync1.iptv.bingo/live/581
+
+#EXTINF:-1 tvg-logo="" group-title="", 582
+https://sync1.iptv.bingo/live/582
+
+#EXTINF:-1 tvg-logo="" group-title="", 583
+https://sync1.iptv.bingo/live/583
+
+#EXTINF:-1 tvg-logo="" group-title="", 584
+https://sync1.iptv.bingo/live/584
+
+#EXTINF:-1 tvg-logo="" group-title="", 585
+https://sync1.iptv.bingo/live/585
+
+#EXTINF:-1 tvg-logo="" group-title="", 586
+https://sync1.iptv.bingo/live/586
+
+#EXTINF:-1 tvg-logo="" group-title="", 587
+https://sync1.iptv.bingo/live/587
+
+#EXTINF:-1 tvg-logo="" group-title="", 588
+https://sync1.iptv.bingo/live/588
+
+#EXTINF:-1 tvg-logo="" group-title="", 589
+https://sync1.iptv.bingo/live/589
+
+#EXTINF:-1 tvg-logo="" group-title="", 590
+https://sync1.iptv.bingo/live/590
+
+#EXTINF:-1 tvg-logo="" group-title="", 591
+https://sync1.iptv.bingo/live/591
+
+#EXTINF:-1 tvg-logo="" group-title="", 592
+https://sync1.iptv.bingo/live/592
+
+#EXTINF:-1 tvg-logo="" group-title="", 593
+https://sync1.iptv.bingo/live/593
+
+#EXTINF:-1 tvg-logo="" group-title="", 594
+https://sync1.iptv.bingo/live/594
+
+#EXTINF:-1 tvg-logo="" group-title="", 595
+https://sync1.iptv.bingo/live/595
+
+#EXTINF:-1 tvg-logo="" group-title="", 596
+https://sync1.iptv.bingo/live/596
+
+#EXTINF:-1 tvg-logo="" group-title="", 597
+https://sync1.iptv.bingo/live/597
+
+#EXTINF:-1 tvg-logo="" group-title="", 598
+https://sync1.iptv.bingo/live/598
+
+#EXTINF:-1 tvg-logo="" group-title="", 599
+https://sync1.iptv.bingo/live/599
+
+#EXTINF:-1 tvg-logo="" group-title="", 600
+https://sync1.iptv.bingo/live/600
+
+#EXTINF:-1 tvg-logo="" group-title="", 601
+https://sync1.iptv.bingo/live/601
+
+#EXTINF:-1 tvg-logo="" group-title="", 602
+https://sync1.iptv.bingo/live/602
+
+#EXTINF:-1 tvg-logo="" group-title="", 603
+https://sync1.iptv.bingo/live/603
+
+#EXTINF:-1 tvg-logo="" group-title="", 604
+https://sync1.iptv.bingo/live/604
+
+#EXTINF:-1 tvg-logo="" group-title="", 605
+https://sync1.iptv.bingo/live/605
+
+#EXTINF:-1 tvg-logo="" group-title="", 606
+https://sync1.iptv.bingo/live/606
+
+#EXTINF:-1 tvg-logo="" group-title="", 607
+https://sync1.iptv.bingo/live/607
+
+#EXTINF:-1 tvg-logo="" group-title="", 608
+https://sync1.iptv.bingo/live/608
+
+#EXTINF:-1 tvg-logo="" group-title="", 609
+https://sync1.iptv.bingo/live/609
+
+#EXTINF:-1 tvg-logo="" group-title="", 610
+https://sync1.iptv.bingo/live/610
+
+#EXTINF:-1 tvg-logo="" group-title="", 611
+https://sync1.iptv.bingo/live/611
+
+#EXTINF:-1 tvg-logo="" group-title="", 612
+https://sync1.iptv.bingo/live/612
 
 #EXTINF:-1 tvg-logo="" group-title="", 223
 https://sync1.iptv.bingo/live/223
 
+#EXTINF:-1 tvg-logo="" group-title="", 223
+https://sync1.iptv.bingo/live/223
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="", 223
+https://sync1.iptv.bingo/live/223
 
