@@ -197,7 +197,7 @@ https://sync1.iptv.bingo/live/392
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/225px-The_Weather_Channel_logo_2005-present.svg.png" group-title="WEATHER", WEATHER CHANNEL
 https://sync1.iptv.bingo/live/393
 
-#EXTINF:-1 tvg-logo="" group-title="", 394
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c6/Galavisi%C3%B3n_logo_2012.svg/revision/latest/scale-to-width-down/200?cb=20121108233652" group-title="DAVE", GALAVISION
 https://sync1.iptv.bingo/live/394
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/BET_Jams.svg/revision/latest/scale-to-width-down/67?cb=20170319124120" group-title="MUSIC", BET JAMS
@@ -206,7 +206,7 @@ https://sync1.iptv.bingo/live/395
 #EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="DAVE", RIDE TV
 https://sync1.iptv.bingo/live/397
 
-#EXTINF:-1 tvg-logo="" group-title="", 398
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/People_logo.svg/revision/latest/scale-to-width-down/300?cb=20100322122407" group-title="DAVE", PEOPLE TV
 https://sync1.iptv.bingo/live/398
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c7/NickMusic.svg/revision/latest/scale-to-width-down/80?cb=20190930203549" group-title="MUSIC", NICK MUSIC
@@ -314,7 +314,7 @@ https://sync1.iptv.bingo/live/440
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="NEWS", RT
 https://sync1.iptv.bingo/live/441
 
-#EXTINF:-1 tvg-logo="" group-title="", 442
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 442
 https://sync1.iptv.bingo/live/442
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/17/OANN.jpg/revision/latest/scale-to-width-down/200?cb=20151026211718" group-title="NEWS", ONE AMERICE NEWS NETWORK
@@ -398,13 +398,13 @@ https://sync1.iptv.bingo/live/523
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/ACC_Network_ESPN.svg/revision/latest/scale-to-width-down/350?cb=20190824151121" group-title="SPORT", ACC NETWORK
 https://sync1.iptv.bingo/live/524
 
-#EXTINF:-1 tvg-logo="" group-title="", 527
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 527
 https://sync1.iptv.bingo/live/527
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/WWELogo2014.svg/revision/latest/scale-to-width-down/58?cb=20140816125328" group-title="SPORT", WWE
 https://sync1.iptv.bingo/live/528
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 529
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/FP-Logo.jpg/revision/latest/scale-to-width-down/235?cb=20150902205708" group-title="SPORT", UFC FIGHT PASS
 https://sync1.iptv.bingo/live/529
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/330px-Golf_Channel_Logo_2018.png" group-title="SPORT", NBC GOLF
@@ -443,7 +443,7 @@ https://sync1.iptv.bingo/live/541
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Pac-12_Networks_logo.png/225px-Pac-12_Networks_logo.png" group-title="SPORT", PAC 12 OREGON
 https://sync1.iptv.bingo/live/542
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0f/Fight_Network_2011.png/revision/latest/scale-to-width-down/200?cb=20110611223002" group-title="SPORT", 543
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0f/Fight_Network_2011.png/revision/latest/scale-to-width-down/200?cb=20110611223002" group-title="SPORT", FIGHT NETWORK
 https://sync1.iptv.bingo/live/543
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/Fox-sports-deportes-us.png/revision/latest/scale-to-width-down/250?cb=20200226143941" group-title="SPORT", FOX DEPORTES
@@ -491,7 +491,7 @@ https://sync1.iptv.bingo/live/577
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/NESN_logo_2019.png/300px-NESN_logo_2019.png" group-title="SPORT", NESN
 https://sync1.iptv.bingo/live/578
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 579
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/SPMN-main.gif/revision/latest/scale-to-width-down/200?cb=20130827194502" group-title="SPORT", SPORTSMAN
 https://sync1.iptv.bingo/live/579
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/TVG_logo.svg/revision/latest/scale-to-width-down/200?cb=20100404072709" group-title="SPORT", TVG
@@ -593,7 +593,7 @@ https://sync1.iptv.bingo/live/619?u=181254
 #EXTINF:-1 tvg-logo="" group-title="", 620
 https://sync1.iptv.bingo/live/620?u=181255
 
-#EXTINF:-1 tvg-logo="" group-title="", 621
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX 54
 https://sync1.iptv.bingo/live/621?u=181256
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX
@@ -611,13 +611,13 @@ https://sync1.iptv.bingo/live/625
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX 32 CHICAGO
 https://sync1.iptv.bingo/live/626
 
-#EXTINF:-1 tvg-logo="" group-title="", 627
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX 2 DETROIT
 https://sync1.iptv.bingo/live/627
 
 #EXTINF:-1 tvg-logo="" group-title="", 628
 https://sync1.iptv.bingo/live/628
 
-#EXTINF:-1 tvg-logo="" group-title="", 629
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX 13
 https://sync1.iptv.bingo/live/629
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX 13 UTAH
@@ -722,7 +722,7 @@ https://sync1.iptv.bingo/live/665
 #EXTINF:-1 tvg-logo="" group-title="", 666
 https://sync1.iptv.bingo/live/666
 
-#EXTINF:-1 tvg-logo="" group-title="", 667
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/NBC_2014_Indent_Style.svg/revision/latest/scale-to-width-down/55?cb=20180907194025" group-title="NBC", NBC 2
 https://sync1.iptv.bingo/live/667
 
 #EXTINF:-1 tvg-logo="" group-title="", 668
@@ -731,53 +731,38 @@ https://sync1.iptv.bingo/live/668
 #EXTINF:-1 tvg-logo="" group-title="", 669
 https://sync1.iptv.bingo/live/669
 
-#EXTINF:-1 tvg-logo="" group-title="", 670
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/NBC_2014_Indent_Style.svg/revision/latest/scale-to-width-down/55?cb=20180907194025" group-title="NBC", NBC
 https://sync1.iptv.bingo/live/670
-
-#EXTINF:-1 tvg-logo="" group-title="", 671
-https://sync1.iptv.bingo/live/671
 
 #EXTINF:-1 tvg-logo="" group-title="", 672
 https://sync1.iptv.bingo/live/672
 
-#EXTINF:-1 tvg-logo="" group-title="", 673
-https://sync1.iptv.bingo/live/673
-
 #EXTINF:-1 tvg-logo="" group-title="", 674
 https://sync1.iptv.bingo/live/674
-
-#EXTINF:-1 tvg-logo="" group-title="", 675
-https://sync1.iptv.bingo/live/675
 
 #EXTINF:-1 tvg-logo="" group-title="", 676
 https://sync1.iptv.bingo/live/676
 
-#EXTINF:-1 tvg-logo="" group-title="", 677
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX 17
 https://sync1.iptv.bingo/live/677
 
-#EXTINF:-1 tvg-logo="" group-title="", 678
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX 59
 https://sync1.iptv.bingo/live/678
 
 #EXTINF:-1 tvg-logo="" group-title="", 679
 https://sync1.iptv.bingo/live/679
 
-#EXTINF:-1 tvg-logo="" group-title="", 680
-https://sync1.iptv.bingo/live/680
-
-#EXTINF:-1 tvg-logo="" group-title="", 681
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX 29
 https://sync1.iptv.bingo/live/681
 
 #EXTINF:-1 tvg-logo="" group-title="", 682
 https://sync1.iptv.bingo/live/682
 
-#EXTINF:-1 tvg-logo="" group-title="", 683
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX 61
 https://sync1.iptv.bingo/live/683
 
 #EXTINF:-1 tvg-logo="" group-title="", 684
 https://sync1.iptv.bingo/live/684
-
-#EXTINF:-1 tvg-logo="" group-title="", 685
-https://sync1.iptv.bingo/live/685
 
 #EXTINF:-1 tvg-logo="" group-title="", 686
 https://sync1.iptv.bingo/live/686
@@ -800,23 +785,17 @@ https://sync1.iptv.bingo/live/691
 #EXTINF:-1 tvg-logo="" group-title="", 692
 https://sync1.iptv.bingo/live/692
 
-#EXTINF:-1 tvg-logo="" group-title="", 693
-https://sync1.iptv.bingo/live/693
-
 #EXTINF:-1 tvg-logo="" group-title="", 694
 https://sync1.iptv.bingo/live/694
 
 #EXTINF:-1 tvg-logo="" group-title="", 695
 https://sync1.iptv.bingo/live/695
 
-#EXTINF:-1 tvg-logo="" group-title="", 696
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX 45
 https://sync1.iptv.bingo/live/696
 
 #EXTINF:-1 tvg-logo="" group-title="", 697
 https://sync1.iptv.bingo/live/697
-
-#EXTINF:-1 tvg-logo="" group-title="", 698
-https://sync1.iptv.bingo/live/698
 
 #EXTINF:-1 tvg-logo="" group-title="", 699
 https://sync1.iptv.bingo/live/699
@@ -827,62 +806,61 @@ https://sync1.iptv.bingo/live/700
 #EXTINF:-1 tvg-logo="" group-title="", 701
 https://sync1.iptv.bingo/live/701
 
-#EXTINF:-1 tvg-logo="" group-title="", 702
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX 26 HOUSTON
 https://sync1.iptv.bingo/live/702
-
-#EXTINF:-1 tvg-logo="" group-title="", 703
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX 12 OREGON
 https://sync1.iptv.bingo/live/703
 
-#EXTINF:-1 tvg-logo="" group-title="", 223
+#EXTINF:-1 tvg-logo="" group-title="", 704
+https://sync1.iptv.bingo/live/704
+
+#EXTINF:-1 tvg-logo="" group-title="", 705
+https://sync1.iptv.bingo/live/705
+
+#EXTINF:-1 tvg-logo="" group-title="", 706
+https://sync1.iptv.bingo/live/706
+
+#EXTINF:-1 tvg-logo="" group-title="", 707
 https://sync1.iptv.bingo/live/223
 
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
+#EXTINF:-1 tvg-logo="" group-title="", 708
+https://sync1.iptv.bingo/live/708
 
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
+#EXTINF:-1 tvg-logo="" group-title="", 709
+https://sync1.iptv.bingo/live/709
 
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
+#EXTINF:-1 tvg-logo="" group-title="", 710
+https://sync1.iptv.bingo/live/710
 
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
+#EXTINF:-1 tvg-logo="" group-title="", 711
+https://sync1.iptv.bingo/live/711
 
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
+#EXTINF:-1 tvg-logo="" group-title="", 712
+https://sync1.iptv.bingo/live/712
 
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
+#EXTINF:-1 tvg-logo="" group-title="", 713
+https://sync1.iptv.bingo/live/713
 
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
+#EXTINF:-1 tvg-logo="" group-title="", 714
+https://sync1.iptv.bingo/live/714
 
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
+#EXTINF:-1 tvg-logo="" group-title="", 715
+https://sync1.iptv.bingo/live/715
 
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
+#EXTINF:-1 tvg-logo="" group-title="", 716
+https://sync1.iptv.bingo/live/716
 
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
+#EXTINF:-1 tvg-logo="" group-title="", 717
+https://sync1.iptv.bingo/live/717
 
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
+#EXTINF:-1 tvg-logo="" group-title="", 718
+https://sync1.iptv.bingo/live/718
 
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
+#EXTINF:-1 tvg-logo="" group-title="", 719
+https://sync1.iptv.bingo/live/719
 
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
-
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
-
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
-
-#EXTINF:-1 tvg-logo="" group-title="", 223
-https://sync1.iptv.bingo/live/223
+#EXTINF:-1 tvg-logo="" group-title="", 720
+https://sync1.iptv.bingo/live/720
 
 #EXTINF:-1 tvg-logo="" group-title="", 223
 https://sync1.iptv.bingo/live/223
