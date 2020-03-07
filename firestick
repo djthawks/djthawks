@@ -569,32 +569,32 @@ https://sync1.iptv.bingo/live/611
 #EXTINF:-1 tvg-logo="" group-title="NEWS", KIRO 7
 https://sync1.iptv.bingo/live/612
 
-#EXTINF:-1 tvg-logo="" group-title="", 613
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="NEWS", FOX 40 SACREMENTO
 https://sync1.iptv.bingo/live/613
 
-#EXTINF:-1 tvg-logo="" group-title="", 614
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX
 https://sync1.iptv.bingo/live/614
 
-#EXTINF:-1 tvg-logo="" group-title="", 615
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX
 https://sync1.iptv.bingo/live/615
 
-#EXTINF:-1 tvg-logo="" group-title="", 616
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX
 https://sync1.iptv.bingo/live/616
 
-#EXTINF:-1 tvg-logo="" group-title="", 617
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/80?cb=20191121082502" group-title="FOX", FOX
 https://sync1.iptv.bingo/live/617
 
 #EXTINF:-1 tvg-logo="" group-title="", 618
-https://sync1.iptv.bingo/live/618
+https://sync1.iptv.bingo/live/618?u=181253
 
 #EXTINF:-1 tvg-logo="" group-title="", 619
-https://sync1.iptv.bingo/live/619
+https://sync1.iptv.bingo/live/619?u=181254
 
 #EXTINF:-1 tvg-logo="" group-title="", 620
-https://sync1.iptv.bingo/live/620
+https://sync1.iptv.bingo/live/620?u=181255
 
 #EXTINF:-1 tvg-logo="" group-title="", 621
-https://sync1.iptv.bingo/live/621
+https://sync1.iptv.bingo/live/621?u=181256
 
 #EXTINF:-1 tvg-logo="" group-title="", 622
 https://sync1.iptv.bingo/live/622
